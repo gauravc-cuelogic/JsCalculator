@@ -1,0 +1,2 @@
+# JsCalculator
+Calculator using Closure.
