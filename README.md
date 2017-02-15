@@ -2,8 +2,8 @@
 
 
 FPC Health Check - To check server status</br>
-  * API End Point</br>
-     # <yourDomain>/device/health_check</br>
+</t>* API End Point</br>
+</t></t># <yourDomain>/device/health_check</br>
      # Result:</br>
         Success Result</br> 
           Response : {"FPC":"Success","Database":"Success","Rouge":"Success"} </br>
