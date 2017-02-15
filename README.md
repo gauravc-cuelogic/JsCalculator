@@ -1,7 +1,7 @@
 # FPC
 
 
-FPC Health Check - To check server status</br>
+**FPC Health Check - To check server status**</br>
 * API End Point</br>
   - <yourDomain>/device/health_check</br>
     * Result:</br>
