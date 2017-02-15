@@ -2,7 +2,7 @@
 Calculator using Closure.
 
 # FPC
-FPC Health Check - To check server status
+# FPC Health Check - To check server status
   * API End Point
      # <yourDomain>/device/health_check
      # Result:
