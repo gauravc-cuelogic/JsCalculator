@@ -2,9 +2,9 @@
 Calculator using Closure.
 
 # FPC
-# FPC Health Check - To check server status
- * API End Point
-  # <yourDomain>/device/health_check
+# FPC Health Check - To check server status</br>
+ * API End Point</br>
+  # <yourDomain>/device/health_check</br>
    # Result:
     Success Result
      Response : {"FPC":"Success","Database":"Success","Rouge":"Success"}
